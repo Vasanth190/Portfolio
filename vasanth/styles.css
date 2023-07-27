@@ -1,0 +1,177 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+#about{
+  font-size: xx-large;
+  text-align: center;
+  color: gold;
+}
+#project{
+  font-size: xx-large;
+  text-align: center; 
+  color: gold;
+}
+  #skill{
+  font-size: xx-large;
+  text-align: center;
+  color:gold;
+ }
+ #contacts{
+  font-size: xx-large;
+  text-align: center;
+  color: gold;
+ }
+ #contact{
+  font-size: xx-large;
+  text-align: center; 
+  
+}
+#about p{
+ color: blue;
+ font-size: xx-large;
+ text-align: center;
+ width: 100%;
+}
+#about img{
+  float: right;
+  height:13%;
+  width: 13%;
+
+}
+span{
+  color: darkgreen;
+}
+header {
+  
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+
+}
+header h1{ text-align:center;
+}
+
+nav ul {
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+  
+}
+
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+}
+ #projects{
+    text-align: center;
+    font-size:x-large;
+    color: aqua;
+   }
+  .project1 {
+
+  width: 100%;
+  height: auto;
+  padding: 10px;
+  background-color: aquamarine;
+  margin-right: 10px;
+}
+    
+     .project1  p{
+      text-align: center;
+      color: blue;
+    }
+    .project1 img{
+      float: left;
+      height: 6%;
+      width: 6%;
+    }
+    
+    .project2  {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    background-color: bisque;
+    float: center;
+}
+    
+     .project2 p{
+     text-align: center;
+      color:blue;
+    }
+    
+    span{
+      color:orangered;
+    }
+    .project2 img{
+      float: left;
+      height: 6%;
+      width: 6%;
+    
+    } 
+    .project3 {
+    width: 100%;
+     height: auto;
+     padding: 10px;
+     background-color: lightgray;
+    float: right;
+}
+    .project3 p{
+      text-align: center;
+       color: blue;
+     }
+     .project3 img{
+      float: left;
+      height: 6%;
+      width: 6%;
+     } 
+   #skills{
+    text-align: center;
+    font-size: x-large;
+    background-color:beige;
+    width: 100%;
+   }
+   #skills .info{
+    text-align: center;
+    font-size: xx-large;
+    color: aqua;
+  }
+  img{
+    width: 100%;
+  }
+  .tags{
+    float: center;
+    display:inline-table;
+    text-align: left;
+    color: blue;
+    
+   }
+   
+    img{ 
+    height:10%;
+    width: 10% ;
+  }
+ .box{
+  width: 400px;
+  height: auto;
+  padding: 10px;
+  background-color: aquamarine;
+}
+footer{
+  padding: 35px;
+  text-align: center;
+  background-color: lightgreen;
+  font-size: large;
+  }
+
+
